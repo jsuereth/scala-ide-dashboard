@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/qbranch-dashboard -Dhttp.port=${PORT} -Ddashboard.oauthtoken=${GH_OAUTH_TOKEN} ${JAVA_OPTS}
+web: target/universal/stage/bin/qbranch-dashboard -Dhttp.port=${PORT} -Ddashboard.oauthtoken=${GH_OAUTH_TOKEN} 
