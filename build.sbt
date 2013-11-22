@@ -1,4 +1,4 @@
-name := "scala-ide-dashboard"
+name := "qbranch-dashboard"
 
 version := "0.2.0-SNAPSHOT"
 
