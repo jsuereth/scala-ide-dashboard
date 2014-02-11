@@ -19,7 +19,7 @@ object GitHubJsonReaders {
 
   implicit def issueReads: Reads[Issue] = (
     (__ \ "number").read[Int] and
-    (__ \ "url").read[String] and
+    (__ \ "html_url").read[String] and
     (__ \ "labels").read[Seq[Label]] and
     (__ \ "comments").read[Int]).apply(Issue)
 
