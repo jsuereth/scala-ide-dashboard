@@ -75,3 +75,33 @@ body {
   background: #8888CC;
   border-color: #8888BB;
 }
+
+
+.project-cat-sbt-core {
+  background: #CC8888;
+  border-color: #BB8888;
+}
+
+.project-cat-sbt-plugin {
+  background: #88CC88;
+  border-color: #88BB88;
+}
+
+.project-cat-dbuild {
+  background: #8888CC;
+  border-color: #8888BB;
+}
+
+
+.toc {
+	position: absolute;
+	right: 5px;
+	bottom: 5px;
+	border: 1px solid black;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+.toc ul {
+	list-style: none;
+	padding-left:0;
+}
