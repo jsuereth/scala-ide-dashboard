@@ -77,6 +77,16 @@ body {
 }
 
 
+.project-cat-core {
+  background: #CCCC88;
+  border-color: #BB8888;
+}
+
+.project-cat-activator {
+  background: #88CCCC;
+  border-color: #BB8888;
+}
+
 .project-cat-sbt-core {
   background: #CC8888;
   border-color: #BB8888;
